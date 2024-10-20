@@ -37,14 +37,15 @@ A decentralized chat application based on the Ethereum networks (WEB 3). The app
 
 ---
 
-### Project 2: Crowdfunding (WEB 3)
-A crowdfunding application that allows you to create and apply for your project, and to collect and receive funds on the Ethereum network.
+### Project 2: [Taxi-sell](https://github.com/KhalilZer/Taxi-sell)
+Taxi-sell is a comprehensive web application that allows users to buy and sell taxi services. The platform provides a user-friendly interface for booking taxis and managing transactions. Built with a modern tech stack, it offers a seamless experience for both drivers and passengers.
 
 **Technology used:**
-- Solidity
-- React
-- Decentralized database (Ethereum networks)
-- Hardhat Server
+- ReactJS
+- Vite
+- Laravel
+- MySQL
+
 
 ---
 
