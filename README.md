@@ -26,13 +26,14 @@ I am an experienced web developer with a passion for creating dynamic and innova
 
 ## Projects
 
-### Project 1: Chat Application (WEB 3)
-A decentralized chat application based on the Ethereum networks (WEB 3). The application allows you to connect, send and receive messages with a simple notification system using the blockchain concept.
+### Project 1: [Mint-Dapp](https://github.com/KhalilZer/Mint-Dapp)
+Mint-Dapp is a decentralized application that allows users to mint their own NFTs easily. The application provides an intuitive interface for users to create and manage their NFTs. It connects to MetaMask for wallet integration and checks for sufficient funds before minting.
 
 **Technology used:**
+- ReactJS
 - Solidity
-- Next.js
-- Decentralized database (Ethereum networks)
+- Ethereum blockchain
+- Web3.js
 - Hardhat Server
 
 ---
@@ -59,14 +60,23 @@ An application for NFT minting that allows you to generate an NFT and mint it ea
 - Hardhat Server
 
 ---
-
-### Project 4: ANDPORY WEBSITE (Web 2)
-A website for booking an appointment at the hairdresser, featuring a small admin interface for managing appointments and notifying customers.
+### Project 4: [JobFinder](https://github.com/KhalilZer/JobFinder-Vite-React)
+JobFinder is a user-friendly interface for job searching, built with React, Tailwind CSS, and Vite.js. This application provides a seamless experience for users to find job opportunities and explore various listings.
 
 **Technology used:**
-- CSS3, React
-- PHP/Laravel
-- MySQL
+- ReactJS
+- Tailwind CSS
+- Vite.js
+
+----
+
+### Project 5: [React Native Quiz](https://github.com/KhalilZer/reactNative-ReduxToolkit-quiz)
+The React Native Quiz application is a mobile app built with React Native and Redux Toolkit, allowing users to take quizzes on various topics. It features a modern UI and provides an interactive experience for users to test their knowledge.
+
+**Technology used:**
+- React Native
+- Redux Toolkit
+- JavaScript
 
 ---
 
