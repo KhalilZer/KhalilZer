@@ -69,8 +69,16 @@ The React Native Quiz application is a mobile app built with React Native and Re
 - JavaScript
 
 ---
+### Project 5: [Quiz App (ReactJS and Redux)](https://github.com/KhalilZer/QuizApp-ReactJs-and-Redux)
+The Quiz App is a web application built with React and Redux that allows users to take quizzes on various subjects. It features an engaging user interface and provides instant feedback on quiz performance.
 
-### Project 5: [Wallet DApp](https://github.com/KhalilZer/Wallet-dapp)
+**Technology used:**
+- ReactJS
+- Redux
+- CSS
+
+
+### Project 6: [Wallet DApp](https://github.com/KhalilZer/Wallet-dapp)
 The Wallet DApp is a decentralized application that allows users to manage their cryptocurrency wallets. It provides a user-friendly interface for viewing balances, sending and receiving funds, and managing transactions securely.
 
 **Technology used:**
