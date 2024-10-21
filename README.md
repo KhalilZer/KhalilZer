@@ -50,17 +50,7 @@ Taxi-sell is a comprehensive web application that allows users to buy and sell t
 
 ---
 
-### Project 3: NFT Minting (WEB 3)
-An application for NFT minting that allows you to generate an NFT and mint it easily with a button. The application connects to MetaMask and checks whether the amount requested for the NFT exists or not.
-
-**Technology used:**
-- Solidity
-- React
-- Decentralized database (Ethereum networks)
-- Hardhat Server
-
----
-### Project 4: [JobFinder](https://github.com/KhalilZer/JobFinder-Vite-React)
+### Project 3: [JobFinder](https://github.com/KhalilZer/JobFinder-Vite-React)
 JobFinder is a user-friendly interface for job searching, built with React, Tailwind CSS, and Vite.js. This application provides a seamless experience for users to find job opportunities and explore various listings.
 
 **Technology used:**
@@ -70,7 +60,7 @@ JobFinder is a user-friendly interface for job searching, built with React, Tail
 
 ----
 
-### Project 5: [React Native Quiz](https://github.com/KhalilZer/reactNative-ReduxToolkit-quiz)
+### Project 4: [React Native Quiz](https://github.com/KhalilZer/reactNative-ReduxToolkit-quiz)
 The React Native Quiz application is a mobile app built with React Native and Redux Toolkit, allowing users to take quizzes on various topics. It features a modern UI and provides an interactive experience for users to test their knowledge.
 
 **Technology used:**
@@ -80,13 +70,14 @@ The React Native Quiz application is a mobile app built with React Native and Re
 
 ---
 
-### Project 5: Crypto Wallet (Web 3)
-An application that allows decentralized transactions of cryptocurrency. The application connects to MetaMask, checks the amount requested to transfer, and completes the transaction if sufficient funds exist in your wallet, adding the amount to the receiver's wallet.
+### Project 5: [Wallet DApp](https://github.com/KhalilZer/Wallet-dapp)
+The Wallet DApp is a decentralized application that allows users to manage their cryptocurrency wallets. It provides a user-friendly interface for viewing balances, sending and receiving funds, and managing transactions securely.
 
 **Technology used:**
 - Solidity
 - React
-- Decentralized database (Ethereum networks)
+- Ethereum blockchain
+- Web3.js
 - Hardhat Server
 
 ## Contact
