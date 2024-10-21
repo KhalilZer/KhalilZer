@@ -1,6 +1,6 @@
 # Web and Mobile Developer
 
-Welcome to my GitHub profile! This repository showcases my work as a senior web developer, highlighting my skills, projects, and contributions to the web development community. It serves as a portfolio and a reference for potential employers or collaborators.
+Welcome to my GitHub profile! This repository showcases my work as a  web and mobile developer, highlighting my skills, projects, and contributions to the web development community. It serves as a portfolio and a reference for potential employers or collaborators.
 
 ## Table of Contents
 
@@ -91,6 +91,6 @@ An application that allows decentralized transactions of cryptocurrency. The app
 
 ## Contact
 
-You can reach me via email at [khalilzerzour100@gmail.com](mailto:khalilzerzour100@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile). I am open to discussing job opportunities, collaborations, or answering any questions you may have.
+You can reach me via email at [khalilzerzour100@gmail.com](mailto:khalilzerzour100@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/khalil-zerzour-91a738193/). I am open to discussing job opportunities, collaborations, or answering any questions you may have.
 
 Feel free to explore the repository and get in touch. I am excited to share my expertise and contribute to exciting web development projects.
