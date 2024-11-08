@@ -90,6 +90,25 @@ The Wallet DApp is a decentralized application that allows users to manage their
 
 ## Contact
 
+### Project 7: [TODO App Angular v18](https://github.com/KhalilZer/Todo_Angular)
+This Todo App is built with Angular v18 and TypeScript to help users manage daily tasks effectively. It’s designed as a Single Page Application (SPA), providing a seamless and interactive experience.
+
+Key Features
+
+Add Tasks: Users can create new tasks with a description.
+Mark as Complete: Tasks can be marked as done, with a visual update (e.g., strikethrough or a checkmark).
+Edit Tasks: Users can edit task descriptions as needed.
+Delete Tasks: Allows removal of completed or outdated tasks.
+Filter and Sort: Tasks can be filtered by status (completed/In Progress or Waiting) and sorted by date.
+
+
+**Technology used:**
+- Angular
+- TypeScript
+- TailwindCss
+
+## Contact
+
 You can reach me via email at [khalilzerzour100@gmail.com](mailto:khalilzerzour100@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/khalil-zerzour-91a738193/). I am open to discussing job opportunities, collaborations, or answering any questions you may have.
 
 Feel free to explore the repository and get in touch. I am excited to share my expertise and contribute to exciting web development projects.
