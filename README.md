@@ -78,6 +78,8 @@ The Quiz App is a web application built with React and Redux that allows users t
 - CSS
 
 
+----
+
 ### Project 6: [Wallet DApp](https://github.com/KhalilZer/Wallet-dapp)
 The Wallet DApp is a decentralized application that allows users to manage their cryptocurrency wallets. It provides a user-friendly interface for viewing balances, sending and receiving funds, and managing transactions securely.
 
@@ -88,7 +90,7 @@ The Wallet DApp is a decentralized application that allows users to manage their
 - Web3.js
 - Hardhat Server
 
-
+----
 
 ### Project 7: [TODO App Angular v18](https://github.com/KhalilZer/Todo_Angular)
 This Todo App is built with Angular v18 and TypeScript to help users manage daily tasks effectively. It’s designed as a Single Page Application (SPA), providing a seamless and interactive experience.
