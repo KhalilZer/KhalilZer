@@ -88,7 +88,7 @@ The Wallet DApp is a decentralized application that allows users to manage their
 - Web3.js
 - Hardhat Server
 
-## Contact
+
 
 ### Project 7: [TODO App Angular v18](https://github.com/KhalilZer/Todo_Angular)
 This Todo App is built with Angular v18 and TypeScript to help users manage daily tasks effectively. It’s designed as a Single Page Application (SPA), providing a seamless and interactive experience.
