@@ -97,8 +97,11 @@ Key Features
 
 Add Tasks: Users can create new tasks with a description.
 Mark as Complete: Tasks can be marked as done, with a visual update (e.g., strikethrough or a checkmark).
+
 Edit Tasks: Users can edit task descriptions as needed.
+
 Delete Tasks: Allows removal of completed or outdated tasks.
+
 Filter and Sort: Tasks can be filtered by status (completed/In Progress or Waiting) and sorted by date.
 
 
